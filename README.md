@@ -1,0 +1,2 @@
+# Sezer
+programı kuran gebersin
